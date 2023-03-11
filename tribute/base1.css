@@ -25,14 +25,21 @@
 
 #p3 {
     float: right;
+    padding:10px;
+    border: 2px solid black;
 
 }
 
 #p2 {
-
     float: left;
-}
+    padding:10px;
+    border: 2px solid black;
 
+}
+#s1{
+    
+
+}
 ul {
     list-style: none;
 }
