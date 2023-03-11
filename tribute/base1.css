@@ -38,5 +38,39 @@ ul {
 }
 
 #q1{
-    font-family:;
+    font-family:cursive;
+    float:top;
+}
+
+#i1{
+    float:left;
+}
+#q2{
+    font-family:cursive;
+    float: right;
+}
+
+#q3{
+    font-family:cursive;
+    float: right;
+}
+
+#d11{
+    background-color: blue;
+    color: white;
+    margin-left:700px;
+    border-radius: 100px;
+    padding:10px;
+    
+}
+
+#d12{
+    background-color: blue;
+    color: white;
+    margin-left:700px;
+    border-radius: 100px;
+    padding:50px;
+    margin-bottom:10px;
+    /* padding-bottom: 10px; */
+    
 }
